@@ -16,7 +16,7 @@ Application of the FIVAR paper's methodology to the crypto market using Binance 
 
 3. `PRVM.ipynb`
 
-* **Description:** Calculates the PRVM (Proxy for Realized Volatility Matrix) for the selected universe.
+* **Description:** Calculates the PRVM (Pre-averaging Realized Volatility Matrix) for the selected universe.
 * **Output:** `crypto_prvm_output/prvm_gamma_jv_2023_2025_top200.npz`
 
 4. `FIVAR_HAR`
